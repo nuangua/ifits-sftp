@@ -1,0 +1,11 @@
+requests
+wheel
+setuptools
+geoip2
+psutil
+numpy
+PySocks
+Sphinx
+idata-security>=1.0.1
+ifits-utils>=1.0.1
+ifits-aws>=1.0.17

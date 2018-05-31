@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: ifits-sftp
+Version: 1.0.2
+Summary: ifits-sftp
+Home-page: https://github.intel.com/ft/ifits-sftp
+Author: David Koo
+Author-email: nuanguang.gu@intel.com
+License: Intel FT TECH
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*

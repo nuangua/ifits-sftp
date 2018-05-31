@@ -1,0 +1,10 @@
+include *.txt
+include *.rst
+include VERSION
+
+# added by check_manifest.py
+include *.md
+include *.py
+recursive-include bin *.bat
+recursive-include bin *.sh
+recursive-include ifits_sftp *.*
