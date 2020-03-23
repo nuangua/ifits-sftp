@@ -30,3 +30,5 @@ SFTP_TRACES_PATH = SFTP_BASE_PATH + r"/TRACES"
 
 SFTP_TRANSFER_UL = "upload"
 SFTP_TRANSFER_DL = "download"
+
+printaa "HW"
